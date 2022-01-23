@@ -1,1 +1,1 @@
-# ECEN_649_Project
+# Indian Music Genre Classification (ECEN-649)
